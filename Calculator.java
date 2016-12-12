@@ -1,8 +1,12 @@
 import Calculator.CalculatorProperties;
+import Java.util.Scanner;
+
 class Calculator{
-public static int main( int num1, char sign, int num2) {
-if (sign == '+') {
-  add(num1, num2);
-};
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in);
+CustomObject add = new CustomObject();
+System.out.println("Input:");
+String i = input.nextLine;
+System.out.println(i);
 };
 }
