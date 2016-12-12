@@ -1,6 +1,6 @@
-package Calculator;
+package hello-java;
 import java.util.Scanner;
-import Calculator.CalcOperations;
+import hello-java.CalcOperations;
 
 class Calculator{
 public static void main(String[] args) {
