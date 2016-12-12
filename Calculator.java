@@ -1,4 +1,3 @@
-import Calculator.CalculatorProperties;
 import Java.util.Scanner;
 
 class Calculator{
